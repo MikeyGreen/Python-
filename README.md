@@ -1,2 +1,8 @@
-<div class="output_wrapper" id="output_wrapper_id" style="font-size: 16px; color: rgb(62, 62, 62); line-height: 1.6; word-spacing: 0px; letter-spacing: 0px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif;"><h3 id="hpython" style="line-height: inherit; margin: 1.5em 0px; font-weight: bold; font-size: 1.3em; margin-bottom: 2em; margin-right: 5px; padding: 8px 15px; letter-spacing: 2px; background-image: linear-gradient(to right bottom, rgb(0, 188, 212), rgb(63, 81, 181)); background-color: rgb(63, 81, 181); color: rgb(255, 255, 255); border-left: 10px solid rgb(51, 51, 51); border-radius: 5px; text-shadow: rgb(102, 102, 102) 1px 1px 1px; box-shadow: rgb(102, 102, 102) 1px 1px 2px;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">python学习历程</span></h3>
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.5em 0px;">本人测绘工程专业，工地狗一枚<br>非科班计算机专业自学Python<br>从2018年七八月开始正式学python，因为边工作边学习，学习进度非常慢，三天打鱼两天晒网，工作有时忙了就不想学了。<br>期间买过两本书，只粗略看完一本，看完收获并不大，又开始看视频。视频有的讲的太啰嗦，有时讲的完全听不懂。<br>找不到一种适合零基础学习编程的方法，期间也加了不少QQ群，付费群，大牛很少说话，说话的基本都是小白。<br>创建的一个公众号，不定期发表学习笔记，没坚持多久，写文章太浪费时间。</p></div>
+###python学习历程
+
+本人测绘工程专业，工地狗一枚
+非科班计算机专业自学Python
+从2018年七八月开始正式学python，因为边工作边学习，学习进度非常慢，三天打鱼两天晒网，工作有时忙了就不想学了。
+期间买过两本书，只粗略看完一本，看完收获并不大，又开始看视频。视频有的讲的太啰嗦，有时讲的完全听不懂。
+找不到一种适合零基础学习编程的方法，期间也加了不少QQ群，付费群，大牛很少说话，说话的基本都是小白。
+创建的一个公众号，不定期发表学习笔记，没坚持多久，写文章太浪费时间。
